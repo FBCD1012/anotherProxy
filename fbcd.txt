@@ -1,0 +1,136 @@
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+禁用: off?级别
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+严重: 严重日志级别操作
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+警告: 警告日志级别操作
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+信息: 基本信息级别操作
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+配置: 构建级别日志输出
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+详细: Fine日志构建级别输出
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+非常详细: FINEST级别的日志输出
+9月 20, 2023 5:42:43 下午 Test.theLoggerTest main
+全部: 全级别的日志输出操作
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+禁用: off?级别
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+严重: 严重日志级别操作
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+警告: 警告日志级别操作
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+信息: 基本信息级别操作
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+配置: 构建级别日志输出
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+详细: Fine日志构建级别输出
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+非常详细: FINEST级别的日志输出
+9月 20, 2023 5:43:06 下午 Test.theLoggerTest main
+全部: 全级别的日志输出操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+禁用: off?级别
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+严重: 严重日志级别操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+警告: 警告日志级别操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+信息: 基本信息级别操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+配置: 构建级别日志输出
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+详细: Fine日志构建级别输出
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+非常详细: FINEST级别的日志输出
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+全部: 全级别的日志输出操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+警告: 警告日志操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+信息: 基础日志操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+配置: 构建日志操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+详细: 详细日志操作
+9月 20, 2023 9:47:07 下午 Test.theLoggerTest main
+非常详细: 非常详细日志操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+禁用: off?级别
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+严重: 严重日志级别操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+警告: 警告日志级别操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+信息: 基本信息级别操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+配置: 构建级别日志输出
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+详细: Fine日志构建级别输出
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+非常详细: FINEST级别的日志输出
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+全部: 全级别的日志输出操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+警告: 警告日志操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+信息: 基础日志操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+配置: 构建日志操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+详细: 详细日志操作
+9月 20, 2023 9:48:02 下午 Test.theLoggerTest main
+非常详细: 非常详细日志操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+禁用: off?级别
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+严重: 严重日志级别操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+警告: 警告日志级别操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+信息: 基本信息级别操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+配置: 构建级别日志输出
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+详细: Fine日志构建级别输出
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+非常详细: FINEST级别的日志输出
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+全部: 全级别的日志输出操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+警告: 警告日志操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+信息: 基础日志操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+配置: 构建日志操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+详细: 详细日志操作
+9月 20, 2023 9:49:25 下午 Test.theLoggerTest main
+非常详细: 非常详细日志操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+禁用: off?级别
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+严重: 严重日志级别操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+警告: 警告日志级别操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+信息: 基本信息级别操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+配置: 构建级别日志输出
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+详细: Fine日志构建级别输出
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+非常详细: FINEST级别的日志输出
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+全部: 全级别的日志输出操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+警告: 警告日志操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+信息: 基础日志操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+配置: 构建日志操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+详细: 详细日志操作
+9月 20, 2023 9:49:39 下午 Test.theLoggerTest main
+非常详细: 非常详细日志操作

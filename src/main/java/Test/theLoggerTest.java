@@ -29,9 +29,10 @@ public class theLoggerTest {
         //日志所有权限的表达方法，这里需要对前面进行匹配
         consoleHandler.setLevel(Level.ALL);
 
-        //TODO 联合上述操作进行理解
-        consoleHandler.setFormatter(simpleFormatter);
+        //这里千万注意formatter不能进行多个设置,格式化器只能单个进行操作实现，如何操作是非常必要的
+        consoleHandler.setFormatter(new XMLFormatter());
 
+        //TODO 联合上述操作进行理解
         FileHandler fileHandler=new FileHandler("fbcd.txt",true);
         fileHandler.setFormatter(simpleFormatter);
 
